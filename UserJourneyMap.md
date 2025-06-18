@@ -1,0 +1,34 @@
+# User Journey Map: RVCE MCA Students Experiencing Academic Anxiety
+
+## Persona: Typical MCA Student at RVCE
+This journey map represents the experience of an MCA student at RVCE dealing with anxiety related to academic and non-academic stressors, based on survey responses collected on June 17–18, 2025.
+
+## Journey Stages
+1. **Trigger: Encountering Academic Stressors**
+2. **Reaction: Experiencing Anxiety Symptoms**
+3. **Coping: Attempting to Manage Anxiety**
+4. **Reflection: Evaluating Need for Support**
+5. **Resolution: Seeking or Avoiding Help**
+
+| **Stage** | **Actions** | **Thoughts** | **Feelings** | **Pain Points** | **Opportunities** |
+|-----------|-------------|--------------|--------------|-----------------|-------------------|
+| **Trigger: Encountering Academic Stressors** | - Faces tight deadlines for assignments/projects.<br>- Receives unclear feedback from faculty.<br>- Compares performance with peers.<br>- Attends placement-related sessions. | - "How will I finish all this on time?"<br>- "Am I falling behind everyone else?"<br>- "What if I fail and disappoint my family?"<br>- "The faculty expects too much!" | - Overwhelmed: too many tasks.<br>- Anxious: fear of failure.<br>- Inadequate: feels not good enough. | - Constant deadlines create a sense of urgency.<br>- Unclear expectations lead to confusion.<br>- Social comparison increases self-doubt.<br>- Family pressure adds external stress. | - Provide clear assignment guidelines and timelines.<br>- Offer workshops on managing academic workload.<br>- Create peer support groups to reduce comparison.<br>- Communicate realistic faculty expectations. |
+| **Reaction: Experiencing Anxiety Symptoms** | - Notices physical symptoms (e.g., tight chest, trouble sleeping).<br>- Avoids responsibilities or procrastinates.<br>- Struggles to focus on studies. | - "Why can’t I calm down?"<br>- "I’m not sure if this is normal stress or something worse."<br>- "I don’t want others to see me like this." | - Panicked: racing thoughts disrupt focus.<br>- Isolated: feels alone in struggles.<br>- Uncertain: unsure about anxiety vs. stress. | - Difficulty recognizing anxiety symptoms.<br>- Lack of immediate coping strategies.<br>- Stigma prevents open discussion. | - Educate students on anxiety symptoms via workshops.<br>- Provide accessible stress-relief tools (e.g., mindfulness apps).<br>- Normalize mental health conversations on campus. |
+| **Coping: Attempting to Manage Anxiety** | - Talks to friends or family.<br>- Sleeps or isolates to escape stress.<br>- Engages in hobbies or exercise (less common).<br>- Rarely uses campus resources.<br>- Some report "nothing helps." | - "Maybe talking to someone will help."<br>- "I just need to push through this alone."<br>- "I don’t have time for hobbies right now."<br>- "Are campus resources even useful?" | - Hopeful: seeks relief through familiar methods.<br>- Frustrated: ineffective coping strategies.<br>- Exhausted: isolation drains energy. | - Reliance on ineffective coping (e.g., isolation).<br>- Limited awareness of campus resources.<br>- Lack of time for positive coping mechanisms. | - Promote campus wellness programs (e.g., yoga, counseling).<br>- Create quick, accessible coping guides (e.g., breathing exercises).<br>- Encourage faculty to allow flexible deadlines. |
+| **Reflection: Evaluating Need for Support** | - Considers seeking help but hesitates.<br>- Reflects on past experiences with counseling (if any).<br>- Assesses severity of anxiety ("Is it serious enough?"). | - "Do I really need professional help?"<br>- "What if counseling doesn’t work for me?"<br>- "I don’t want to seem weak."<br>- "I didn’t know where to find help last time." | - Conflicted: wants help but fears judgment.<br>- Skeptical: doubts efficacy of support.<br>- Embarrassed: stigma around mental health. | - Lack of knowledge about available services.<br>- Negative past experiences with counseling.<br>- Cultural stigma around seeking help. | - Increase visibility of mental health services via campaigns.<br>- Share student success stories with counseling.<br>- Offer anonymous support options (e.g., chat services). |
+| **Resolution: Seeking or Avoiding Help** | - Most prefer to cope independently.<br>- A few access counseling (mixed outcomes).<br>- Some don’t seek help due to unawareness or discomfort.<br>- Continues cycle of stress without resolution. | - "I’ll figure this out on my own."<br>- "Counseling helped/didn’t help before."<br>- "I wish it was easier to get help."<br>- "I don’t have time to deal with this." | - Resigned: accepts stress as normal.<br>- Relieved: if counseling helps (rare).<br>- Disappointed: if help is inaccessible or ineffective.<br>- Anxious: cycle continues unresolved. | - Preference for self-reliance delays support.<br>- Inconsistent counseling experiences deter usage.<br>- Lack of follow-up after initial help-seeking. | - Streamline access to counseling (e.g., online booking).<br>- Train counselors to address student-specific issues.<br>- Provide ongoing support plans for students.<br>- Integrate mental health check-ins into academic advising. |
+
+## Key Insights
+- **Cycle of Anxiety**: The journey often loops back to the trigger stage due to ineffective coping and reluctance to seek help, perpetuating anxiety.
+- **Barriers to Support**: Lack of awareness, stigma, and negative past experiences prevent students from accessing mental health resources.
+- **Disconnected Coping**: Students rely on isolation or procrastination, which worsens anxiety, while positive strategies like exercise are underutilized due to time constraints.
+- **External Pressures**: Family expectations and financial concerns amplify academic stress, making it harder for students to feel aligned with their studies.
+
+## Recommendations
+1. **Enhance Resource Awareness**: Launch a campus-wide campaign to promote mental health services, including posters, emails, and workshops.
+2. **Improve Academic Clarity**: Faculty should provide clear expectations, timely feedback, and flexible deadlines to reduce stress.
+3. **Foster Belonging**: Create student-led support groups or mentorship programs to address feelings of isolation and comparison.
+4. **Accessible Coping Tools**: Offer bite-sized stress management resources (e.g., 5-minute mindfulness sessions) tailored to busy schedules.
+5. **Destigmatize Help-Seeking**: Integrate mental health discussions into orientation and academic advising to normalize seeking support.
+
+This journey map highlights the need for systemic changes to support RVCE MCA students in managing academic anxiety effectively.
